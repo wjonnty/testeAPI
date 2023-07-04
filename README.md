@@ -5,11 +5,11 @@
 A partir da técnica de partição de equivalência foram criados 2 casos de teste para a funcionalidade cadastrar usuário
 
 ## CT-16 Validar cadastro de usuário com email nunca usado
-![image](https://github.com/wjonnty/testeAPI/assets/108878868/2cb49dc3-c8e9-41f7-81fd-0f6e316f3acb)
+![Captura de tela de 2023-07-04 18-05-13](https://github.com/wjonnty/testeAPI/assets/108878868/bba86d07-99e5-4af2-a1bb-8deca0701515)
 
 
 ## CT-17 Validar cadastro de usuário com email em uso
-![image](https://github.com/wjonnty/testeAPI/assets/108878868/36c232af-53e7-45b9-97bc-7c4f4044ae02)
+![Captura de tela de 2023-07-04 18-04-49](https://github.com/wjonnty/testeAPI/assets/108878868/58a9ec28-f85b-4e6e-aaf4-0bce63e4fa24)
 
 
 
