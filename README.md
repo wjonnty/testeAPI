@@ -60,4 +60,16 @@
 ![image](https://github.com/wjonnty/testeAPI/assets/108878868/9dc6038e-aae0-406c-a73a-3f93dd11fcb2)
 
 
+## Funcionalidade login
+
+### CT-32 Validar login com email e senha corretos 
+![image](https://github.com/wjonnty/testeAPI/assets/108878868/19895d6a-21bc-4f37-a677-479a6837ce21)
+
+### CT-33 Validar Login com email correto e senha errada
+![image](https://github.com/wjonnty/testeAPI/assets/108878868/de82197b-1ab2-4dab-98e2-d6f640b3fd1e)
+
+### CT-34 Validar Login com email e senha incorretos
+![image](https://github.com/wjonnty/testeAPI/assets/108878868/514172af-648c-466e-91c8-168a30c523e2)
+
+
       
