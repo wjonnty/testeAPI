@@ -32,3 +32,32 @@
 ### CT-23 Validar cadastro de usuário através da edição com email em uso por outro usuário
 ![image](https://github.com/wjonnty/testeAPI/assets/108878868/823380d8-d17d-4986-b3b5-379727dd0009)
 
+
+## Funcionalidade listar usuários cadastrados
+
+### CT-24 Validar listagem de usuários cadastrados
+![image](https://github.com/wjonnty/testeAPI/assets/108878868/52fe2958-9413-4663-8bfe-2cc5d263e3a4)
+
+### CT-25 Validar listagem de usuários através do id
+![image](https://github.com/wjonnty/testeAPI/assets/108878868/151ae7aa-2cf5-4096-a777-c65390df4bf6)
+
+### CT-26 Validar listagem de usuários através do nome
+![image](https://github.com/wjonnty/testeAPI/assets/108878868/7e192bb6-0731-4d8e-a205-4f94cd6b0c17)
+
+### CT-27 Validar listagem de usuários através do email
+![image](https://github.com/wjonnty/testeAPI/assets/108878868/59b97611-27ac-437f-958d-4efdf3f7bc13)
+
+### CT-28 Validar listagem de usuários através da senha
+![image](https://github.com/wjonnty/testeAPI/assets/108878868/cbc1dffc-e113-456a-8e39-eb219e3d21ef)
+
+### CT-29 Validar listagem de usuários cadastrados como administrador
+![image](https://github.com/wjonnty/testeAPI/assets/108878868/233114a3-cc5b-4989-b217-cd588dcb5d5f)
+
+### CT-30 Validar listagem de usuários cadastrados como não-administrador
+![image](https://github.com/wjonnty/testeAPI/assets/108878868/bdade36b-feb0-4d87-94b6-08d596a126c5)
+
+### CT-31 Validar query administrador com valor não cadastrado
+![image](https://github.com/wjonnty/testeAPI/assets/108878868/9dc6038e-aae0-406c-a73a-3f93dd11fcb2)
+
+
+      
