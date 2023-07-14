@@ -29,9 +29,6 @@
 ### CT-22 Validar cadastro de usuário através da edição
 ![image](https://github.com/wjonnty/testeAPI/assets/108878868/29d797d8-3f70-4c48-a5f5-69f291919987)
 
-### CT-23 Validar cadastro de usuário através da edição com email em uso por outro usuário
-![image](https://github.com/wjonnty/testeAPI/assets/108878868/823380d8-d17d-4986-b3b5-379727dd0009)
-
 
 ## Funcionalidade listar usuários cadastrados
 
