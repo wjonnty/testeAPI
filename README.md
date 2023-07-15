@@ -2,8 +2,17 @@
 
 > Teste funcional da api ServeRest, especificamente as funçoes de criar/deletar usuário, editar usuário, listar 1 ou mais usuários e fazer login
 
+#### Funcionalidades:
 
-## Funcionalidade cadastrar usuário
+- [Funcionalidade cadastrar usuário](#id-1)
+- [Funcionalidade editar usuário](#id-2)
+- [Funcionalidade listar usuários cadastrados](#id-3)
+- [Funcionalidade login](#id-4)
+
+
+
+
+## Funcionalidade cadastrar usuário <a name="id-1"></a>
 
 ### CT-16 Validar cadastro de usuário com email nunca usado
 ![Captura de tela de 2023-07-04 18-05-13](https://github.com/wjonnty/testeAPI/assets/108878868/bba86d07-99e5-4af2-a1bb-8deca0701515)
@@ -18,7 +27,7 @@
 ### CT-19 Validar exclusão de usuário com carrinho cadastrado
 ![image](https://github.com/wjonnty/testeAPI/assets/108878868/e170088d-cf67-47e4-96e9-f209c39ecb38)
 
-## Funcionalidade editar usuário
+## Funcionalidade editar usuário <a name="id-2"></a>
 
 ### CT-21 Validar edição de usuário já cadastrado
 ![image](https://github.com/wjonnty/testeAPI/assets/108878868/00a8b808-1722-46a6-9218-6f1af52fe83f)
@@ -30,7 +39,7 @@
 ![image](https://github.com/wjonnty/testeAPI/assets/108878868/29d797d8-3f70-4c48-a5f5-69f291919987)
 
 
-## Funcionalidade listar usuários cadastrados
+## Funcionalidade listar usuários cadastrados <a name="id-3"></a>
 
 ### CT-24 Validar listagem de usuários cadastrados
 ![image](https://github.com/wjonnty/testeAPI/assets/108878868/52fe2958-9413-4663-8bfe-2cc5d263e3a4)
@@ -57,7 +66,7 @@
 ![image](https://github.com/wjonnty/testeAPI/assets/108878868/9dc6038e-aae0-406c-a73a-3f93dd11fcb2)
 
 
-## Funcionalidade login
+## Funcionalidade login <a name="id-4"></a>
 
 ### CT-32 Validar login com email e senha corretos 
 ![image](https://github.com/wjonnty/testeAPI/assets/108878868/19895d6a-21bc-4f37-a677-479a6837ce21)
