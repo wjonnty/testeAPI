@@ -1,22 +1,22 @@
 # Teste de funcional de API com RestAssured
 
-> Teste funcional da api ServeRest, especificamente as funçoes de criar/deletar usuário, editar usuário, listar 1 ou mais usuários e fazer login
+Teste funcional da API ServeRest, especificamente as funções de criar/deletar usuário, editar usuário, listar 1 ou mais usuários e fazer login
 
-#### Funcionalidades:
+#### Funcionalidades: <a name="return"></a>
 
-- [Funcionalidade cadastrar usuário](#id-1)
-- [Funcionalidade editar usuário](#id-2)
-- [Funcionalidade listar usuários cadastrados](#id-3)
-- [Funcionalidade login](#id-4)
-
-
+>- [Funcionalidade cadastrar usuário](#id-1)
+>- [Funcionalidade editar usuário](#id-2)
+>- [Funcionalidade listar usuários cadastrados](#id-3)
+>- [Funcionalidade login](#id-4)
 
 
-## Funcionalidade cadastrar usuário <a name="id-1"></a>
+
+
+# Funcionalidade cadastrar usuário <a name="id-1"></a>
+
 
 ### CT-16 Validar cadastro de usuário com email nunca usado
 ![Captura de tela de 2023-07-04 18-05-13](https://github.com/wjonnty/testeAPI/assets/108878868/bba86d07-99e5-4af2-a1bb-8deca0701515)
-
 
 ### CT-17 Validar cadastro de usuário com email em uso
 ![Captura de tela de 2023-07-04 18-04-49](https://github.com/wjonnty/testeAPI/assets/108878868/58a9ec28-f85b-4e6e-aaf4-0bce63e4fa24)
@@ -27,7 +27,12 @@
 ### CT-19 Validar exclusão de usuário com carrinho cadastrado
 ![image](https://github.com/wjonnty/testeAPI/assets/108878868/e170088d-cf67-47e4-96e9-f209c39ecb38)
 
+[Retornar ao topo](#return)
+
+
+
 ## Funcionalidade editar usuário <a name="id-2"></a>
+
 
 ### CT-21 Validar edição de usuário já cadastrado
 ![image](https://github.com/wjonnty/testeAPI/assets/108878868/00a8b808-1722-46a6-9218-6f1af52fe83f)
@@ -38,8 +43,12 @@
 ### CT-22 Validar cadastro de usuário através da edição
 ![image](https://github.com/wjonnty/testeAPI/assets/108878868/29d797d8-3f70-4c48-a5f5-69f291919987)
 
+[Retornar ao topo](#return)
 
-## Funcionalidade listar usuários cadastrados <a name="id-3"></a>
+
+
+# Funcionalidade listar usuários cadastrados <a name="id-3"></a>
+
 
 ### CT-24 Validar listagem de usuários cadastrados
 ![image](https://github.com/wjonnty/testeAPI/assets/108878868/52fe2958-9413-4663-8bfe-2cc5d263e3a4)
@@ -65,8 +74,12 @@
 ### CT-31 Validar query administrador com valor não cadastrado
 ![image](https://github.com/wjonnty/testeAPI/assets/108878868/9dc6038e-aae0-406c-a73a-3f93dd11fcb2)
 
+[Retornar ao topo](#return)
+
+
 
 ## Funcionalidade login <a name="id-4"></a>
+
 
 ### CT-32 Validar login com email e senha corretos 
 ![image](https://github.com/wjonnty/testeAPI/assets/108878868/19895d6a-21bc-4f37-a677-479a6837ce21)
@@ -76,6 +89,8 @@
 
 ### CT-34 Validar Login com email e senha incorretos
 ![image](https://github.com/wjonnty/testeAPI/assets/108878868/514172af-648c-466e-91c8-168a30c523e2)
+
+[Retornar ao topo](#return)
 
 
       
