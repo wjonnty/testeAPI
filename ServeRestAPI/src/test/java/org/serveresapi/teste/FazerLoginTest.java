@@ -8,7 +8,7 @@ import static org.hamcrest.CoreMatchers.equalTo;
 
 public class FazerLoginTest extends BaseTest {
 
-    private static final String LOGIN_ENDPOINT="/login";
+    
 
     @Test
     public void testFazerLoginEmailESenhaValidos(){

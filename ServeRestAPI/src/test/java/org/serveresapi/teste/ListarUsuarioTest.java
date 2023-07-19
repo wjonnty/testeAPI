@@ -39,12 +39,12 @@ public class ListarUsuarioTest extends BaseTest {
     @Test
     public void testListagemUsuariosViaID(){
         given().
-                param("_id",ID_USUARIO).
+                param("_id",idUsuario).
         when().
                 get(CRIA_LISTA_USUARIOS_ENDPOINT).
         then().
                 statusCode(200).
-                body("quantidade",either(equalTo(1)).or(equalTo(0)));
+                body("quantidade",equalTo(1));
 
     }
 

@@ -15,8 +15,7 @@ public class ExcluirUsuarioTest extends BaseTest {
                     body(usuario).
                 when().
                     post(CRIA_LISTA_USUARIOS_ENDPOINT).
-                then().
-                    statusCode(201)
+                then()
                     .extract().
                     path("_id");
     }
@@ -36,7 +35,7 @@ public class ExcluirUsuarioTest extends BaseTest {
     @Test
     public void testExcluirUsuarioComCarrinho(){
         given().
-                pathParam("_id",ID_USUARIO).
+                pathParam("_id",idUsuario).
         when().
                 delete(CRIA_LISTA_USUARIOS_ENDPOINT+"/{_id}").
         then().

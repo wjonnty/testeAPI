@@ -14,7 +14,7 @@ public class EditarUsuarioTest extends BaseTest {
         Usuarios usuario= new Usuarios("nomealteirado",EMAIL_USUARIO,SENHA_USUARIO,"true");
 
         given().
-                pathParam("_id",ID_USUARIO).
+                pathParam("_id",idUsuario).
                 body(usuario).
         when().
                 put(CRIA_LISTA_USUARIOS_ENDPOINT+"/{_id}").
@@ -28,7 +28,7 @@ public class EditarUsuarioTest extends BaseTest {
         Usuarios usuario= new Usuarios("nomealterado","email@diferente.com",SENHA_USUARIO,"true");
 
         given().
-                pathParam("_id",ID_USUARIO).
+                pathParam("_id",idUsuario).
                 body(usuario).
         when().
                 put(CRIA_LISTA_USUARIOS_ENDPOINT+"/{_id}").
